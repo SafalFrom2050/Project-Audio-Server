@@ -1,0 +1,30 @@
+{
+    "pin" : "8787",
+    "device_name" : "Xiaomi",
+    "music_list" : [{
+        "name" : "SafalFrom2050",
+        "artist" : "Safal",
+        "duration" : "4000"
+    },
+    {
+        "name" : "SafalFrom2051",
+        "artist" : "Safal",
+        "duration" : "5000"
+    },
+    {
+        "name" : "SafalFrom2052",
+        "artist" : "Safal",
+        "duration" : "6000"
+    },
+    {
+        "name" : "SafalFrom2053",
+        "artist" : "Safal",
+        "duration" : "7000"
+    },
+    {
+        "name" : "SafalGenius",
+        "artist" : "Safal",
+        "duration" : "9000"
+    }
+    ]
+}
